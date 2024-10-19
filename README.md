@@ -1,4 +1,4 @@
-# MyPortfolio
+# My Portfolio
 
 ## Hello, World! 🌍
 
@@ -23,10 +23,11 @@ Whether you’re on a smartphone, tablet, or a massive screen, my sites will adj
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-5-blue)
 ![GSAP Badge](https://img.shields.io/badge/GSAP-Animation-green)
 
-### 📽️ Check It Out!
-![Fun GIF](https://media.giphy.com/media/l3q2u3R50Z1Xr7BfG/giphy.gif)
+### Feel free to explore and maybe even hire me:)
+```bash
+https://inna-klimenteva-portfolio.glitch.me
+```
 
-Feel free to explore and maybe even hire me! I promise I’m more fun than a cat video.
 
 ### 📬 Get in Touch
 [My Email](mailto:innaklimenteva@yandex.com)
