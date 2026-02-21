@@ -4,8 +4,6 @@ body {
 	font-family: "Roboto", sans-serif;
 }
 
-
-
 .hello {
 	background: linear-gradient(263deg, orange 0%, #E90074 100%);
 	-webkit-background-clip: text;
@@ -13,10 +11,10 @@ body {
 	font-weight: bold;
 }
 
-/* .stroke {
-	-webkit-text-stroke-width: 0.2px;
+.stroke {
+	-webkit-text-stroke-width: 0.5px;
 	-webkit-text-stroke-color:whitesmoke;         
-} */
+}
 
 .logoPic {
 	width: 80px;
@@ -77,29 +75,13 @@ hr {
 	color: white;
 	background: linear-gradient(45deg, #E90074, orange, #E90074);
 	border: none;
-} 
-
-
-.btnTwoCover {
-	color: white;
-	background: linear-gradient(45deg, #E90074, orange, #E90074);
-	border: none;
-} 
-
-.btnTwoCover:hover {
-	background: whitesmoke;
-	border: 1px solid #E90074;
-	color: #6c757d;
 }
-
-
 
 .btnCover {
 	border: 1px solid #E90074;
 	position: relative;
 	background-color: whitesmoke;
 }
-
 
 .coverPage {
 	background: linear-gradient(-45deg, #E90074, #efe1e8, orange);
@@ -493,11 +475,6 @@ body {
 		font-size: 18px;
 		margin: 5px;
 	}
-    
-	.btnTwoCover {
-		font-size: 18px;
-		margin: 5px;
-	}
 
 	.par {
 		text-align: center;
@@ -560,10 +537,10 @@ body {
 	  font-weight: normal;
 	}
   
-	  /* .stroke {
+	  .strike {
 		  font-weight: bold;
 	  }
-   */
+  
 	  h1 {
 		  font-size: 44px;
 		  padding-top: 10px;
@@ -579,12 +556,6 @@ body {
 		  padding: 5px;
 		  margin-top: 0px;
 	  }
-
-	  .btnTwoCover {
-		font-size: 14px;
-		padding: 5px;
-		margin-top: 0px;
-	}
   
 	  .about {
 		  display: flex;
