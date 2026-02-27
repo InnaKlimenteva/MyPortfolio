@@ -30,7 +30,7 @@ body {
 
 .header {
 	display: flex;
-	justify-content: end;
+	justify-content: flex-end;
 }
 
 .nav-item {
@@ -242,6 +242,29 @@ hr {
 	background-image: url(weather.png);
 }
 
+.item-project-seven {
+	background-image: url(shoppingList.png);
+}
+
+.item-project-eight {
+	background-image: url(marketing.png);
+}
+
+.item-project-nine {
+	background-image: url(scorpio.png);
+}
+
+.item-project-ten {
+	background-image: url(feelingBored.png);
+}
+
+.item-project-eleven {
+	background-image: url(nutrition.png);
+}
+
+.item-project-twelve {
+	background-image: url(gueassAnumber.png);
+}
 
 .item-box {
 	height: 350px;
@@ -342,7 +365,7 @@ h4 {
 
 .certificate-item {
 	margin: 10px;
-	max-width: 30%;
+	max-width: 20%;
 }
 
 .contactLogo {
@@ -521,12 +544,21 @@ body {
 		  height: 120vh;
 	  }
   
-	  .header {
+	  /* .header {
 		  display: flex;
 		  flex-direction: column;
 		  justify-content: start;
 		  align-items: flex-start;
-	  }
+	  } */
+
+	  .header {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-end
+	}
+  
+  
   
   }
   
