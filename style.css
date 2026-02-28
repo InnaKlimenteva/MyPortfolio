@@ -11,10 +11,30 @@ body {
 	font-weight: bold;
 }
 
+.hello-shadow {
+	font-weight: 700;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	filter: drop-shadow(0 2px 6px rgba(100, 100, 100, 0.3));
+}
+
 .stroke {
 	-webkit-text-stroke-width: 0.5px;
 	-webkit-text-stroke-color:whitesmoke;         
 }
+
+#uiux .card {
+	max-width: 350px;
+	margin: 0 auto;
+  }
+  
+  #uiux .item-box p {
+	font-size: 14px;
+  }
+  
+  #uiux .project-name {
+	font-size: 18px;
+  }
 
 .logoPic {
 	width: 80px;
