@@ -159,31 +159,31 @@ hr {
 }
 
 
-.navbar-toggler.collapsed .top-bar {
+.navbar-toggler .top-bar {
 	margin-top: 0px;
 	 transform: rotate(135deg);
 	  background: orange;
 	}
 
-.navbar-toggler.collapsed .middle-bar {
+.navbar-toggler .middle-bar {
 	 opacity: 0;
 	  filter: alpha(opacity=0);
 	}
-.navbar-toggler.collapsed .bottom-bar {
+.navbar-toggler .bottom-bar {
 	 margin-top: 0px;
 	  transform: rotate(-135deg);
 	   background: #E90074;
 	}
-.navbar-toggler .top-bar {
+.navbar-toggler.collapsed .top-bar {
 	 margin-top: -20px;
 	  transform: rotate(0deg);
 	}
 
-.navbar-toggler .middle-bar {
+.navbar-toggler.collapsed .middle-bar {
 	 opacity: 1;
 	 filter: alpha(opacity=100);
 	}
-.navbar-toggler .bottom-bar {
+.navbar-toggler.collapsed .bottom-bar {
 	 margin-top: 20px;
 	  transform: rotate(0deg);
 	 }
