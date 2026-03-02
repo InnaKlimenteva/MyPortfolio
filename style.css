@@ -23,18 +23,6 @@ body {
 	-webkit-text-stroke-color:whitesmoke;         
 }
 
-#uiux .card {
-	max-width: 350px;
-	margin: 0 auto;
-  }
-  
-  #uiux .item-box p {
-	font-size: 14px;
-  }
-  
-  #uiux .project-name {
-	font-size: 18px;
-  }
 
 .logoPic {
 	width: 80px;
@@ -286,6 +274,15 @@ hr {
 	background-image: url(gueassAnumber.png);
 }
 
+.uiux-project-one {
+	background-image: url(portfolio1.png);
+}
+
+.uiux-project-two {
+	background-image: url(portfolio2.png);
+}
+
+
 .item-box {
 	height: 350px;
 }
@@ -470,6 +467,10 @@ body {
 	overflow: hidden;
 }
 
+.description {
+	color: black;
+}
+
 /* .par-project-one,
 .par-project-two,
 .par-project-three,
@@ -493,8 +494,9 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	color: #E90074;
-	text-shadow: 0 0 70px orange;
+	font-weight: 400;
+	/* color: #E90074;
+	text-shadow: 0 0 70px orange; */
 }
 
 
